@@ -1,0 +1,19 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Evolução e Mutação"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+secondaryLogo = "."
+logo = ""
+description = "Site de Biologia"
+
+["params.author"]
+name = "Davi, Leonardo, Daniel e Gabriel"
+headline = "3° Ano B"
+bio = "Siga os links no topo da página para navegar pelo site"

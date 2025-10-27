@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolucaoes on Evolução e Mutação</title>
+    <link>https://example.org/evolucao/</link>
+    <description>Recent content in Evolucaoes on Evolução e Mutação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Davi, Leonardo, Daniel e Gabriel</copyright>
+    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/evolucao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neodarwinismo</title>
+      <link>https://example.org/evolucao/1761596420418-neodarwinismo/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/evolucao/1761596420418-neodarwinismo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/evolucao/1761596420418-neodarwinismo/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Quiz</title>
+      <link>https://example.org/evolucao/1761599922188-quiz/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/evolucao/1761599922188-quiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/evolucao/1761599922188-quiz/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teoria de Darwin</title>
+      <link>https://example.org/evolucao/1761596400081-teoria-de-darwin/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/evolucao/1761596400081-teoria-de-darwin/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/evolucao/1761596400081-teoria-de-darwin/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teoria de Lamark</title>
+      <link>https://example.org/evolucao/1761596347720-teoria-de-lamark/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/evolucao/1761596347720-teoria-de-lamark/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/evolucao/1761596347720-teoria-de-lamark/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
